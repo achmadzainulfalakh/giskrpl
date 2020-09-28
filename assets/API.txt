@@ -1,0 +1,3 @@
+API Google Map
+Projek: GISKRPL
+Key Api: AIzaSyDnzn6UDz_zaN8k1XJgBkKz9TXZmqri1Tg
